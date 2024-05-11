@@ -1,0 +1,2 @@
+A -> aA | Be | a | ^
+B -> bB | Ae | b | ^
